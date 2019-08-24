@@ -7,3 +7,5 @@ function firstName(nameCurrent) {
   return nameCurrent;
 }
 
+console.log(nameCurrent);
+
